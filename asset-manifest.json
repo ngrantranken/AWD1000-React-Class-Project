@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AWD1000-React-Class-Project/static/css/main.59676f79.css",
+    "main.js": "/AWD1000-React-Class-Project/static/js/main.bb1b8572.js",
+    "index.html": "/AWD1000-React-Class-Project/index.html",
+    "main.59676f79.css.map": "/AWD1000-React-Class-Project/static/css/main.59676f79.css.map",
+    "main.bb1b8572.js.map": "/AWD1000-React-Class-Project/static/js/main.bb1b8572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59676f79.css",
+    "static/js/main.bb1b8572.js"
+  ]
+}
